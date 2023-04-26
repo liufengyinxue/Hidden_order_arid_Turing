@@ -2,7 +2,7 @@
 
 "Arid_Raster_DF_Convolution.m" : calculate density fluctuation
 
-"Arid__GPU.m" : simulate the water-vegetation model
+"Arid_GPU.m" : simulate the water-vegetation model
 
 "spectral.m": do spectral analysis for calculating spatial wavelength
 
