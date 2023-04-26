@@ -6,6 +6,6 @@
 
 "spectral.m": do spectral analysis for calculating spatial wavelength
 
-"UPL": calculate unchanneled path length
+"BG_UPL": calculate unchanneled path length
 
 "LOC_dis_experiment.m" and "GL_dis_experiment.m": excute numerical disturbance experiemts
