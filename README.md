@@ -1,8 +1,10 @@
 # Hidden_order_arid_Turing
 
-"Arid_Raster_DF_Convolution.m" : calculate density fluctuation
+"Raster_DF_Convolution.m" : calculate density fluctuation by the convolution method.
 
-"Arid__GPU.m" : simulate the water-vegetation model
+"Raster_DF_Convolution.m" : calculate density fluctuation by the box throwing method.
+
+"Arid_***_GPU.m" : simulate the water-vegetation models in the paper, ***={Rietkerk, Klausmeier, Getzin}
 
 "spectral.m": do spectral analysis for calculating spatial wavelength
 
