@@ -13,3 +13,7 @@
 "BG_UPL": calculate unchanneled path length of bare ground.
 
 "LOC_dis.m" and "GL_dis.m": excute two kinds of disturbance.
+
+"Niger_image.zip": the aerial photographs cite from Barbier et al., Journal of Ecology, 2006, 94, 537–547.
+
+
