@@ -16,4 +16,4 @@
 
 "Niger_image.zip": the aerial photographs cite from Barbier et al., Journal of Ecology, 2006, 94, 537–547.
 
-"Figure1_clasfied.zip": the natural patterns in Figure1A1-A4.
+"Figure1_classfied.zip": the natural patterns in Figure1A1-A4.
