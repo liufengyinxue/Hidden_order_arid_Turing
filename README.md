@@ -14,6 +14,8 @@
 
 "LOC_dis.m" and "GL_dis.m": excute two kinds of disturbance.
 
+“SpotStat.m”: count the number of spot vegetation patches.
+
 "Niger_image.zip": the aerial photographs cite from Barbier et al., Journal of Ecology, 2006, 94, 537–547.
 
 "Figure1_classfied.zip": the natural patterns in Figure1A1-A4.
