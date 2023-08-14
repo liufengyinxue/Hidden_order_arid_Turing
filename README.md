@@ -8,6 +8,8 @@
 
 "Arid_***_GPU.ipynb" and "SpatialFunction_iPy.cl": simulate the water-vegetation models in pyopencl, ***={Rietkerk, Klausmeier, Getzin, Hardenberg}
 
+“Rietkerk_SPDE_GPU.m” and "get_twod_dW_GPU.m": simulatie the stochastic (white noise) Rietkerk model.
+
 "spectral.m" and "Spectral_density.m": do spectral analysis for matrix data. The only difference between them is whether or not the fast Fourier transform is used. The results from them are qualitatively consistent.
 
 "BG_UPL": calculate unchanneled path length of bare ground.
