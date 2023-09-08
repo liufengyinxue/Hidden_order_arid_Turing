@@ -6,7 +6,7 @@
 
 "Arid_***_GPU.m" : simulate the water-vegetation models in MATLAB 2022a, ***={Rietkerk, Klausmeier, Getzin, Hardenberg}
 
-"Arid_***_GPU.ipynb" and "SpatialFunction_iPy.cl": simulate the water-vegetation models in pyopencl, ***={Rietkerk, Klausmeier, Getzin, Hardenberg}
+"Arid_***_GPU.ipynb" and "SpatialFunction_iPy.cl": simulate the water-vegetation models in pyopencl, ***={Klausmeier, Getzin, Hardenberg}
 
 “Rietkerk_SPDE_GPU.m” and "get_twod_dW_GPU.m": simulatie the stochastic (white noise) Rietkerk model.
 
